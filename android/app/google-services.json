@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357936102286",
+    "project_id": "mob3-uas-kel5",
+    "storage_bucket": "mob3-uas-kel5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357936102286:android:59bba071c85d31d96f02df",
+        "android_client_info": {
+          "package_name": "com.example.pinjamuang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUTTyNEe1Tkw3c6X8QIRRUWsgz_j3M9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
